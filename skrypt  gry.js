@@ -7,9 +7,11 @@ IDBCursor,CSSTransition(CSS).HTMLMetaElement(www.youtube.com).define([
     ], function(require, factory) {
         'use strict';
         high;
-        if eelse;
+        if else;
     low
-        })= 'a' ='c'='d'='e'='i' = 'j' = 'k' = 'l' = 'm' = 'n' = new Promise((resolve, reject) => {
+        })
+factory;
+ 'a' ='c'='d'='e'='i' = 'j' = 'k' = 'l' = 'm' = 'n' = new Promise((resolve, reject) => {
             yx(22)<90)
             alert;Text:('win')
 
@@ -19,7 +21,7 @@ code
 ValidityState(100)
 
         e#DE991-(   52109016360000000105498761 + )
-        'iszs'
+        
 
 
    
@@ -34,6 +36,7 @@ ValidityState(100)
     3
     4
     5
-    lqksosPLPq,<onclick[IntersectionObserver]
+    computedstyle
+    <onclick[IntersectionObserver]
     Location;
 ]]
